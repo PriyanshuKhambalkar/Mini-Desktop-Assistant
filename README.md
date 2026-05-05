@@ -199,7 +199,7 @@ git push origin feature/new-command
 
 ## 📜 License
 
-This project is licensed under the [MIT License](https://github.com/PriyanshuKhambalkar/Mini-Desktop-Assistant/blob/22e97ffc3a18fde89dbcd57e222b1a4d37f015d4/LICENSE) - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://github.com/PriyanshuKhambalkar/Mini-Desktop-Assistant/blob/22e97ffc3a18fde89dbcd57e222b1a4d37f015d4/LICENSE) - see the LICENSE file for details.<br/>
 For commercial use or redistribution, please get in touch with the author.
 
 ---
